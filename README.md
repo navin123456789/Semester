@@ -23,8 +23,12 @@ Go to the `music_genre_classification` folder and run the `final.ipynb` notebook
 ## 🔧 Setup
 ### Clone the Repository and Install Dependencies
 ```bash
-git clone https://github.com/raichu03/musicGenreClassification.git
-cd musicGenreClassification
+git clone https://github.com/raichu03/ansan.git
+pip install -r requirements.txt
+```
+## or 
+```bash
+git clone https://github.com/navin123456789/Music_Genre_Classification_ pure_CNN and DBN+CNN and-main.git
 pip install -r requirements.txt
 ```
 
