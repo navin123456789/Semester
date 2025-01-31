@@ -18,7 +18,9 @@ This project implements two approaches for classifying Nepali folk music:
 - 🎶 Salaijo
 - 🎶 Kumari
 - 🎶 Jyaure
-- 🎶 Gandharve etc.
+- 🎶 Gandharve
+- 🎶 Maruni
+- 🎶 Tharu.
 
 ---
 
