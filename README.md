@@ -10,6 +10,10 @@ Contains implementation of the **Wav2Vec** model.
 ### `Music_Genre_Classification_ pure_CNN and DBN+CNN` Folder
 Contains implementations of **CNN** and **Hybrid DBN-CNN** models.
 
+### `Pranjal` Folder
+Contains implementations of **GCN** and **GAT** models.
+
+
 ## 🎼 Dataset
 We have used the **same dataset** across all models, consisting of **10 Nepali folk genres**.
 
@@ -20,6 +24,9 @@ Navigate to the `ansan` folder and follow the provided notebooks.
 ### Explore CNN and Hybrid DBN-CNN Models
 Go to the `music_genre_classification` folder and run the `final.ipynb` notebook.
 
+### Explore CNN and Hybrid DBN-CNN Models
+Go to the `Pranjal` folder and follow the provided notebooks.
+
 ## 🔧 Setup
 ### Clone the Repository and Install Dependencies
 ```bash
@@ -29,6 +36,11 @@ pip install -r requirements.txt
 ## or 
 ```bash
 git clone https://github.com/navin123456789/Music_Genre_Classification_ pure_CNN and DBN+CNN and-main.git
+pip install -r requirements.txt
+```
+## or 
+```bash
+git clone https://github.com/Pranjalpok7/Pranjal.git
 pip install -r requirements.txt
 ```
 
