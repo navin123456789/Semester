@@ -30,19 +30,10 @@ Go to the `Pranjal` folder and follow the provided notebooks.
 ## 🔧 Setup
 ### Clone the Repository and Install Dependencies
 ```bash
-git clone https://github.com/raichu03/ansan.git
+git clone https://github.com/navin123456789/Semester.git
 pip install -r requirements.txt
 ```
-## or 
-```bash
-git clone https://github.com/navin123456789/Music_Genre_Classification_ pure_CNN and DBN+CNN and-main.git
-pip install -r requirements.txt
-```
-## or 
-```bash
-git clone https://github.com/Pranjalpok7/Pranjal.git
-pip install -r requirements.txt
-```
+
 
 ## 🔮 Future Work
 ### Dataset Expansion
